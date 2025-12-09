@@ -1,36 +1,19 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This project is a fully responsive E-commerce Website built using modern web technologies and powered by a Fake API for product data, cart management, and dynamic content rendering. The website simulates a real online shopping experience, allowing users to browse products, view details, add items to the cart, and manage their checkout flow — all without requiring a real backend.
 
-## Getting Started
+The Fake API (such as FakeStoreAPI, JSON-Server, or custom mock data) acts as a lightweight backend, enabling fast development and easy testing of frontend features.
 
-First, run the development server:
+✨ Key Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Product listing with real-time data fetched from a Fake API
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Detailed product pages with pricing, description, and category info
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Add-to-cart and remove-from-cart functionality
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Responsive UI for mobile, tablet, and desktop
 
-## Learn More
+Clean, modern design suitable for real e-commerce layouts
 
-To learn more about Next.js, take a look at the following resources:
+Lightweight architecture perfect for learning and rapid prototyping
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is ideal for developers practicing frontend development, API integration, and e-commerce UI design without needing a full backend system.tjs.org/docs/app/building-your-application/deploying) for more details.
